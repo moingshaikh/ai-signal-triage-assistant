@@ -31,3 +31,13 @@ This project explores how AI can assist with **first-pass triage** without repla
 
 ### What This Assistant Does
 
+The AI Signal Triage Assistant:
+
+- Classifies unstructured input into a single, well-defined signal category
+- Assesses severity based on business impact-
+- Explicitly states confidence in its classification
+- Extracts observable indicators directly from the input
+- Recommends an appropriate next step
+- strict, structured schema
+- Clearly acknowledges limitations when information is insufficient
+
