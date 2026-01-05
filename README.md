@@ -4,3 +4,10 @@ A free, custom GPT that converts unstructured operational input into structured,
 # Overview
 
 **AI Signal Triage Assistant** is a decision-support system designed to convert unstructured operational input into **structured, decision-ready triage signals**.
+
+It is built to help product, support, and business teams make better judgments when dealing with ambiguous, emotional, or incomplete signals such as:
+- support messages
+- user feedback
+- internal operational notes
+
+The system prioritizes **accuracy, evidence-based reasoning, and explicit uncertainty** over speed or confidence. 
