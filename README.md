@@ -26,3 +26,5 @@ Common failure modes when handling these signals include:
 - premature assumptions about business ris
 - lack of clarity around severity and urgency
 - inconsistent triage decisions across teams
+
+This project explores how AI can assist with **first-pass triage** without replacing human judgment or introducing unnecessary risk.
