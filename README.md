@@ -28,3 +28,6 @@ Common failure modes when handling these signals include:
 - inconsistent triage decisions across teams
 
 This project explores how AI can assist with **first-pass triage** without replacing human judgment or introducing unnecessary risk.
+
+### What This Assistant Does
+
