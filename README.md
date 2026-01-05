@@ -15,3 +15,14 @@ The system prioritizes **accuracy, evidence-based reasoning, and explicit uncert
 ### Problem Statement
 
 Most organizations receive large volumes of unstructured signals, including:
+
+- support tickets
+- feedback snippets
+- internal notes
+- qualitative observations
+
+Common failure modes when handling these signals include:
+- over-escalation of weak or emotional input
+- premature assumptions about business ris
+- lack of clarity around severity and urgency
+- inconsistent triage decisions across teams
