@@ -41,3 +41,4 @@ The AI Signal Triage Assistant:
 - strict, structured schema
 - Clearly acknowledges limitations when information is insufficient
 
+All outputs follow a **strict, structured schema** to support consistency and auditability.
