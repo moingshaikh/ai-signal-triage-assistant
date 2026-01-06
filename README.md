@@ -44,3 +44,5 @@ The AI Signal Triage Assistant:
 All outputs follow a **strict, structured schema** to support consistency and auditability.
  
 ### What This Assistant Does Not Do
+
+This system intentionally does **not**:
