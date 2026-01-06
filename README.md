@@ -61,5 +61,5 @@ Each input is classified into exactly one of the following categories:
 
 - **Bug / Defect**  
 Observable failures where system behavior contradicts expected behavior.
-- **Feature Request / Product Feedback**
+- **Feature Request / Product Feedback**  
 Requests, suggestions, or qualitative opinions about product experience. 
