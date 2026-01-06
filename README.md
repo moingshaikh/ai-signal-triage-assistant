@@ -46,3 +46,10 @@ All outputs follow a **strict, structured schema** to support consistency and au
 ### What This Assistant Does Not Do
 
 This system intentionally does **not**:
+- act as a customer-facing chatbot
+- diagnose technical root causes
+- automate ticket creation or workflows
+- make predictions or commitments
+- replace human decision-making
+
+Restraint is a deliberate design choice.
