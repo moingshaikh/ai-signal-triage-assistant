@@ -59,4 +59,5 @@ Restraint is a deliberate design choice.
 
 Each input is classified into exactly one of the following categories:
 
-### Bug / Defect
+- **Bug / Defect**  
+Observable failures where system behavior contradicts expected behavior.
