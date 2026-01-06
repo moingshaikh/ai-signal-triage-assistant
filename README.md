@@ -53,3 +53,6 @@ This system intentionally does **not**:
 - replace human decision-making
 
 Restraint is a deliberate design choice.
+
+## Decision Framework
+### Signal Categories
