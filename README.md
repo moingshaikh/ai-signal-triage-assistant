@@ -58,3 +58,5 @@ Restraint is a deliberate design choice.
 ### Signal Categories
 
 Each input is classified into exactly one of the following categories:
+
+### Bug / Defect
