@@ -65,3 +65,6 @@ Observable failures where system behavior contradicts expected behavior.
 Requests, suggestions, or qualitative opinions about product experience.
 - **Churn / Revenue Risk**  
 Signals indicating potential disengagement or account risk, **only when supported by explicit indicators**.
+- **Data / Integration Issue**  
+Problems involving data accuracy, synchronization, or third-party integrations.
+
