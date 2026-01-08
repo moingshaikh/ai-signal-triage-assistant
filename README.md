@@ -71,9 +71,9 @@ Problems involving data accuracy, synchronization, or third-party integrations.
 ### Confidence Handling
 
 Each classification includes an explicit confidence level:
-- **High**  
-- **Medium**  
-- **Low**  
+- High  
+- Medium  
+- Low  
 
 ### Confidence Handling
 
