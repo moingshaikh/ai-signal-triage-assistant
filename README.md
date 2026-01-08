@@ -78,3 +78,8 @@ Each classification includes an explicit confidence level:
 When information is insufficient, confidence is set to **Low**, and the system recommends requesting more context rather than guessing.
 
 ### Guardrail on Churn Classification
+
+Churn / Revenue Risk is only assigned when the input includes **explicit or strongly implied indicators** of:
+- potential disengagement
+- account loss
+- clear business impact
