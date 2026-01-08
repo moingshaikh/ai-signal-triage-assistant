@@ -68,3 +68,5 @@ Signals indicating potential disengagement or account risk, **only when supporte
 - **Data / Integration Issue**  
 Problems involving data accuracy, synchronization, or third-party integrations.
 
+### Severity Levels
+
