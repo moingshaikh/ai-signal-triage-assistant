@@ -77,3 +77,7 @@ Blocking core workflows or posing clear business risk.
 Degraded experience with workarounds available.
 - **Low**  
 Non-blocking, cosmetic, or informational issues.
+
+### Confidence Handling
+
+Severity reflects **business impact**, not emotional tone:
