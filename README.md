@@ -68,15 +68,12 @@ Signals indicating potential disengagement or account risk, **only when supporte
 - **Data / Integration Issue**  
 Problems involving data accuracy, synchronization, or third-party integrations.
 
-### Severity Levels
+### Confidence Handling
 
-Severity reflects **business impact**, not emotional tone:
+Each classification includes an explicit confidence level:
 - **High**  
-Blocking core workflows or posing clear business risk.
 - **Medium**  
-Degraded experience with workarounds available.
 - **Low**  
-Non-blocking, cosmetic, or informational issues.
 
 ### Confidence Handling
 
