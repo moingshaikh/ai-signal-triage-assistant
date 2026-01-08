@@ -70,3 +70,4 @@ Problems involving data accuracy, synchronization, or third-party integrations.
 
 ### Severity Levels
 
+Severity reflects **business impact**, not emotional tone:
