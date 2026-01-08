@@ -74,7 +74,3 @@ Each classification includes an explicit confidence level:
 - High  
 - Medium  
 - Low  
-
-### Confidence Handling
-
-Severity reflects **business impact**, not emotional tone:
