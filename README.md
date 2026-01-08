@@ -83,3 +83,5 @@ Churn / Revenue Risk is only assigned when the input includes **explicit or stro
 - potential disengagement
 - account loss
 - clear business impact
+
+General dissatisfaction or vague sentiment alone is not treated as churn risk.
