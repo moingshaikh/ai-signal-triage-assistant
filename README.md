@@ -76,3 +76,5 @@ Each classification includes an explicit confidence level:
 - Low  
 
 When information is insufficient, confidence is set to **Low**, and the system recommends requesting more context rather than guessing.
+
+### Guardrail on Churn Classification
