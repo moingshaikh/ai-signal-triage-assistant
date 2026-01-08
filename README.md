@@ -73,3 +73,5 @@ Problems involving data accuracy, synchronization, or third-party integrations.
 Severity reflects **business impact**, not emotional tone:
 - **High**  
 Blocking core workflows or posing clear business risk.
+- **Medium**  
+Degraded experience with workarounds available.
