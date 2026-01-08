@@ -75,3 +75,5 @@ Severity reflects **business impact**, not emotional tone:
 Blocking core workflows or posing clear business risk.
 - **Medium**  
 Degraded experience with workarounds available.
+- **Low**  
+Non-blocking, cosmetic, or informational issues.
