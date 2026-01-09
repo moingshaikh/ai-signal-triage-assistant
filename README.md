@@ -89,4 +89,8 @@ General dissatisfaction or vague sentiment alone is not treated as churn risk.
 ## Output Structure
 
 Every response follows the same fixed structure:
+1. signal_summary
+2. signal_category
+3. severity_level
+
 
