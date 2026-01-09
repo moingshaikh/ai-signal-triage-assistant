@@ -92,5 +92,10 @@ Every response follows the same fixed structure:
 1. signal_summary
 2. signal_category
 3. severity_level
+4. confidence_level
+5. key_indicators_detected
+6. recommended_action
+7. rationale
+8. limitations_or_notes
 
 
