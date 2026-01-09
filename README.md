@@ -87,3 +87,5 @@ Churn / Revenue Risk is only assigned when the input includes **explicit or stro
 General dissatisfaction or vague sentiment alone is not treated as churn risk.
 
 ## Output Structure
+Every response follows the same fixed structure:
+
