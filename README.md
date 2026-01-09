@@ -98,4 +98,7 @@ Every response follows the same fixed structure:
 7. rationale
 8. limitations_or_notes
 
-
+This structure is enforced to support:
+- consistency
+- downstream use in reviews or dashboards
+- human auditability
