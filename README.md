@@ -108,3 +108,4 @@ This structure is enforced to support:
 This assistant is intentionally conservative.
 
 Key principles:
+- Evidence over inference
