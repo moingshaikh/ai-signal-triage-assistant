@@ -104,3 +104,5 @@ This structure is enforced to support:
 - human auditability
 
 ## Design Philosophy
+
+This assistant is intentionally conservative.
