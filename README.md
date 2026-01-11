@@ -108,9 +108,9 @@ This structure is enforced to support:
 This assistant is intentionally conservative.
 
 Key principles:
-- Evidence over inference
-- Clarity over confidence
-- Decision support over automation
-- Human-in-the-loop by default
+- **Evidence over inference**
+- **Clarity over confidence**
+- **Decision support over automation**
+- **Human-in-the-loop by default**
 
 When the system is unsure, it says so.
