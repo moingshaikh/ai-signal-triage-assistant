@@ -109,3 +109,6 @@ This assistant is intentionally conservative.
 
 Key principles:
 - Evidence over inference
+- Clarity over confidence
+- Decision support over automation
+- Human-in-the-loop by default
