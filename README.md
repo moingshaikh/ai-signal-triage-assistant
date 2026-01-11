@@ -112,3 +112,5 @@ Key principles:
 - Clarity over confidence
 - Decision support over automation
 - Human-in-the-loop by default
+
+When the system is unsure, it says so.
