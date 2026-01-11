@@ -106,3 +106,5 @@ This structure is enforced to support:
 ## Design Philosophy
 
 This assistant is intentionally conservative.
+
+Key principles:
