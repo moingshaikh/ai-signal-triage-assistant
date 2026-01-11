@@ -102,3 +102,5 @@ This structure is enforced to support:
 - consistency
 - downstream use in reviews or dashboards
 - human auditability
+
+## Design Philosophy
