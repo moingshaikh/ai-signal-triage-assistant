@@ -114,3 +114,9 @@ Key principles:
 - **Human-in-the-loop by default**
 
 When the system is unsure, it says so.
+
+## Access
+
+The AI Signal Triage Assistant is available as a Custom GPT.
+
+{Link to GPT Store listing}
