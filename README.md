@@ -128,3 +128,9 @@ The AI Signal Triage Assistant is available as a Custom GPT.
 - Business Analysts
 - Operations and Analytics teams
 - Anyone responsible for triaging qualitative operational signals
+
+## Limitations
+
+- The assistant evaluates only the text provided in a single input.
+- It does not learn from prior interactions.
+- It does not retain state or historical context.
