@@ -120,3 +120,11 @@ When the system is unsure, it says so.
 The AI Signal Triage Assistant is available as a Custom GPT.
 
 {Link to GPT Store listing}
+
+## Intended Audience
+
+- Product Managers
+- Support Operations
+- Business Analysts
+- Operations and Analytics teams
+- Anyone responsible for triaging qualitative operational signals
