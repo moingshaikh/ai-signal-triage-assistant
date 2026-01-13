@@ -134,3 +134,4 @@ The AI Signal Triage Assistant is available as a Custom GPT.
 - The assistant evaluates only the text provided in a single input.
 - It does not learn from prior interactions.
 - It does not retain state or historical context.
+- It does not automate actions or integrate with external systems.
