@@ -139,3 +139,12 @@ The AI Signal Triage Assistant is available as a Custom GPT.
 These limitations are intentional and aligned with the project’s goals.
 
 ### Why This Exists
+
+This project was created to demonstrate how AI systems can be designed to behave responsibly in real operational environments.
+
+It reflects an AI Business Analyst mindset:
+
+- defining boundaries
+- managing ambiguity
+- preventing over-interpretation
+- prioritizing trust over novelty
