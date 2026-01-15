@@ -148,3 +148,5 @@ It reflects an AI Business Analyst mindset:
 - managing ambiguity
 - preventing over-interpretation
 - prioritizing trust over novelty
+
+### License
