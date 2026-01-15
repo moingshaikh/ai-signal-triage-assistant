@@ -150,3 +150,5 @@ It reflects an AI Business Analyst mindset:
 - prioritizing trust over novelty
 
 ### License
+
+This project is shared for educational and demonstration purposes.
