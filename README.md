@@ -152,3 +152,4 @@ It reflects an AI Business Analyst mindset:
 ### License
 
 This project is shared for educational and demonstration purposes.
+No proprietary data, customer information, or confidential workflows are included.
