@@ -8,3 +8,9 @@ The goal of these tests is **not** to prove model intelligence, but to verify:
 - appropriate severity assessment
 - explicit confidence handling
 - responsible behavior under ambiguity
+
+Each test case includes:
+
+- raw input signal
+- expected classification behavior
+- rationale for why the case matters
