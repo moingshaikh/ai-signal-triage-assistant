@@ -3,3 +3,8 @@
 This document contains representative test cases used to validate the behavior of the **AI Signal Triage Assistant**.
 
 The goal of these tests is **not** to prove model intelligence, but to verify:
+
+- consistency of classification
+- appropriate severity assessment
+- explicit confidence handling
+- responsible behavior under ambiguity
