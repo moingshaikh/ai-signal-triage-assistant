@@ -14,3 +14,5 @@ Each test case includes:
 - raw input signal
 - expected classification behavior
 - rationale for why the case matters
+
+### Test Case 1: Clear Bug, High Business Impact
