@@ -16,3 +16,5 @@ Each test case includes:
 - rationale for why the case matters
 
 ### Test Case 1: Clear Bug, High Business Impact
+
+# Input
