@@ -18,3 +18,5 @@ Each test case includes:
 ## Test Case 1: Clear Bug, High Business Impact
 
 ### Input
+
+Since yesterday’s update, files are no longer syncing on mobile. Our team can’t access shared folders, and this is blocking daily work.
