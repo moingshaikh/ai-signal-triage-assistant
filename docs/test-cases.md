@@ -15,6 +15,6 @@ Each test case includes:
 - expected classification behavior
 - rationale for why the case matters
 
-### Test Case 1: Clear Bug, High Business Impact
+# Test Case 1: Clear Bug, High Business Impact
 
-# Input
+### Input
