@@ -34,3 +34,20 @@ This is a baseline validation case.
 The input describes a clear operational failure affecting a core workflow. The assistant should classify confidently and escalate without hesitation, while avoiding technical diagnosis.
 
 ### Test Case 2: Feature Request Framed as Frustration
+
+### Input
+It’s really annoying that we can’t set permissions at the folder level. This should be standard.
+
+### Expected Output (Summary)
+
+- Signal Category: **Feature Request / Product Feedback**
+- Severity Level: **Low or Medium**
+- Confidence Level: **High**
+- Recommended Action: **Log and track**
+
+### Why This Case Matters
+
+- This case tests the assistant’s ability to:
+- ignore emotional tone
+- avoid misclassifying frustration as a defect
+- treat qualitative feedback as product input, not urgency
