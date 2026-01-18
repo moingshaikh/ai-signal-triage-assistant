@@ -20,3 +20,17 @@ Each test case includes:
 ### Input
 
 Since yesterday’s update, files are no longer syncing on mobile. Our team can’t access shared folders, and this is blocking daily work.
+
+### Expected Output (Summary)
+
+- Signal Category: **Bug / Defect**
+- Severity Level: **High**
+- Confidence Level: **High**
+- Recommended Action: **Escalate immediately**
+
+### Why This Case Matters
+
+This is a baseline validation case.  
+The input describes a clear operational failure affecting a core workflow. The assistant should classify confidently and escalate without hesitation, while avoiding technical diagnosis.
+
+### Test Case 2: Feature Request Framed as Frustration
