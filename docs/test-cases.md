@@ -81,3 +81,7 @@ If this isn’t resolved this week, we’ll have to move to another platform.
 - Severity Level: High
 - Confidence Level: High
 - Recommended Action: Escalate immediately
+
+### Why This Case Matters
+
+This validates that the churn classification guardrail still allows escalation when **explicit indicators** are present.
