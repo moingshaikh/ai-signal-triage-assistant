@@ -33,7 +33,7 @@ Since yesterday’s update, files are no longer syncing on mobile. Our team can�
 This is a baseline validation case.  
 The input describes a clear operational failure affecting a core workflow. The assistant should classify confidently and escalate without hesitation, while avoiding technical diagnosis.
 
-### Test Case 2: Feature Request Framed as Frustration
+## Test Case 2: Feature Request Framed as Frustration
 
 ### Input
 It’s really annoying that we can’t set permissions at the folder level. This should be standard.
@@ -52,7 +52,7 @@ It’s really annoying that we can’t set permissions at the folder level. This
 - avoid misclassifying frustration as a defect
 - treat qualitative feedback as product input, not urgency
 
-### Test Case 3: Implicit Churn Risk Without Explicit Threat
+## Test Case 3: Implicit Churn Risk Without Explicit Threat
 
 
 ### Input  
