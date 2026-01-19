@@ -69,3 +69,5 @@ We’re evaluating other tools because collaboration has been slowing us down la
 
 This input includes implied disengagement without an ultimatum.
 The assistant should recognize potential risk while maintaining moderate confidence and avoiding over-escalation.
+
+## Test Case 4: Explicit Churn Risk With Time Pressure
