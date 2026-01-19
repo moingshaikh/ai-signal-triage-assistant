@@ -23,10 +23,10 @@ Since yesterdayâ€™s update, files are no longer syncing on mobile. Our team canâ
 
 ### Expected Output (Summary)
 
-- Signal Category: **Bug / Defect**
-- Severity Level: **High**
-- Confidence Level: **High**
-- Recommended Action: **Escalate immediately**
+- **Signal Category**: Bug / Defect
+- **Severity Level**: High
+- **Confidence Level**: High
+- **Recommended Action**: Escalate immediately
 
 ### Why This Case Matters
 
