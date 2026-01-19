@@ -60,10 +60,10 @@ We’re evaluating other tools because collaboration has been slowing us down la
 
 ### Expected Output (Summary)
 
-- Signal Category: Churn / Revenue Risk
-- Severity Level: Medium
-- Confidence Level: Medium
-- Recommended Action: Monitor for patterns
+- **Signal Category**: Churn / Revenue Risk
+- **Severity Level**: Medium
+- **Confidence Level**: Medium
+- **Recommended Action**: Monitor for patterns
 
 ### Why This Case Matters
 
