@@ -71,3 +71,13 @@ This input includes implied disengagement without an ultimatum.
 The assistant should recognize potential risk while maintaining moderate confidence and avoiding over-escalation.
 
 ## Test Case 4: Explicit Churn Risk With Time Pressure
+
+Input
+If this isn’t resolved this week, we’ll have to move to another platform.
+
+### Expected Output (Summary)
+
+- Signal Category: Churn / Revenue Risk
+- Severity Level: High
+- Confidence Level: High
+- Recommended Action: Escalate immediately
