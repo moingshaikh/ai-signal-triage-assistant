@@ -77,10 +77,10 @@ If this isn’t resolved this week, we’ll have to move to another platform.
 
 ### Expected Output (Summary)
 
-- Signal Category: Churn / Revenue Risk
-- Severity Level: High
-- Confidence Level: High
-- Recommended Action: Escalate immediately
+- **Signal Category**: Churn / Revenue Risk
+- **Severity Level**: High
+- **Confidence Level**: High
+- **Recommended Action**: Escalate immediately
 
 ### Why This Case Matters
 
