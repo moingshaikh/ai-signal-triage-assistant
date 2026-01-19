@@ -40,10 +40,10 @@ It’s really annoying that we can’t set permissions at the folder level. This
 
 ### Expected Output (Summary)
 
-- Signal Category: **Feature Request / Product Feedback**
-- Severity Level: **Low or Medium**
-- Confidence Level: **High**
-- Recommended Action: **Log and track**
+- **Signal Category**: Feature Request / Product Feedback
+- **Severity Level**: Low or Medium
+- **Confidence Level**: High
+- **Recommended Action**: Log and track
 
 ### Why This Case Matters
 
