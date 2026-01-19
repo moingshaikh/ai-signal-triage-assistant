@@ -51,3 +51,21 @@ It’s really annoying that we can’t set permissions at the folder level. This
 - ignore emotional tone
 - avoid misclassifying frustration as a defect
 - treat qualitative feedback as product input, not urgency
+
+### Test Case 3: Implicit Churn Risk Without Explicit Threat
+
+
+### Input  
+We’re evaluating other tools because collaboration has been slowing us down lately.
+
+### Expected Output (Summary)
+
+- Signal Category: Churn / Revenue Risk
+- Severity Level: Medium
+- Confidence Level: Medium
+- Recommended Action: Monitor for patterns
+
+### Why This Case Matters
+
+This input includes implied disengagement without an ultimatum.
+The assistant should recognize potential risk while maintaining moderate confidence and avoiding over-escalation.
