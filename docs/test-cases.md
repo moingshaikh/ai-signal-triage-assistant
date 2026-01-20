@@ -72,7 +72,7 @@ The assistant should recognize potential risk while maintaining moderate confide
 
 ## Test Case 4: Explicit Churn Risk With Time Pressure
 
-Input
+### Input
 If this isn’t resolved this week, we’ll have to move to another platform.
 
 ### Expected Output (Summary)
@@ -87,3 +87,8 @@ If this isn’t resolved this week, we’ll have to move to another platform.
 This validates that the churn classification guardrail still allows escalation when **explicit indicators** are present.
 
 ## Test Case 5: Data / Integration Issue
+### Input
+
+Our CRM integration stopped syncing new records after the last API change.
+
+## Expected Output (Summary)
