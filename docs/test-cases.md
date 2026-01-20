@@ -91,4 +91,13 @@ This validates that the churn classification guardrail still allows escalation w
 
 Our CRM integration stopped syncing new records after the last API change.
 
-## Expected Output (Summary)
+### Expected Output (Summary)
+
+- Signal Category: Data / Integration Issue
+- Severity Level: Medium
+- Confidence Level: High
+- Recommended Action: Log and track
+
+### Why This Case Matters
+
+This case ensures that integration-related problems are not misclassified as core product bugs.
