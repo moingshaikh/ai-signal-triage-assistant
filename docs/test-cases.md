@@ -125,3 +125,5 @@ The assistant must:
 - request clarification instead of guessing
 
 This case directly validates restraint and uncertainty handling.
+### Test Case 7: Emotional Language, Low Operational Impact
+
