@@ -101,3 +101,11 @@ Our CRM integration stopped syncing new records after the last API change.
 ### Why This Case Matters
 
 This case ensures that integration-related problems are not misclassified as core product bugs.
+
+## Test Case 6: Vague Dissatisfaction, Insufficient Information
+
+### Input
+
+Things don’t feel reliable anymore.
+
+### Expected Output (Summary)
