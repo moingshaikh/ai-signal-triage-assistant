@@ -111,4 +111,6 @@ Things don’t feel reliable anymore.
 ### Expected Output (Summary)
 
 - **Signal Category:** Feature Request / Product Feedback
-- **Severity Level:** Low 
+- **Severity Level:** Low
+- **Confidence Level:** Low
+- **Recommended Action:** Request more information 
