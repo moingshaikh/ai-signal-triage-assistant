@@ -109,3 +109,5 @@ This case ensures that integration-related problems are not misclassified as cor
 Things don’t feel reliable anymore.
 
 ### Expected Output (Summary)
+
+- **Signal Category**: Feature Request / Product Feedback
