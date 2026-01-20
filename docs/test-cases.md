@@ -138,3 +138,4 @@ This new UI is terrible. I hate it.
 - **Recommended Action**: Monitor for patterns
 
 ### Why This Case Matters
+The assistant must separate emotional expression from business impact and avoid unnecessary escalation.
