@@ -127,3 +127,6 @@ The assistant must:
 This case directly validates restraint and uncertainty handling.
 ### Test Case 7: Emotional Language, Low Operational Impact
 
+### Input
+This new UI is terrible. I hate it.
+
