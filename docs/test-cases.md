@@ -93,10 +93,10 @@ Our CRM integration stopped syncing new records after the last API change.
 
 ### Expected Output (Summary)
 
-- Signal Category: Data / Integration Issue
-- Severity Level: Medium
-- Confidence Level: High
-- Recommended Action: Log and track
+- **Signal Category**: Data / Integration Issue
+- **Severity Level**: Medium
+- **Confidence Level**: High
+- **Recommended Action**: Log and track
 
 ### Why This Case Matters
 
