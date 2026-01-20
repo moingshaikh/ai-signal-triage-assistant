@@ -85,3 +85,5 @@ If this isn’t resolved this week, we’ll have to move to another platform.
 ### Why This Case Matters
 
 This validates that the churn classification guardrail still allows escalation when **explicit indicators** are present.
+
+## Test Case 5: Data / Integration Issue
