@@ -130,3 +130,5 @@ This case directly validates restraint and uncertainty handling.
 ### Input
 This new UI is terrible. I hate it.
 
+**Expected Output (Summary)**
+
