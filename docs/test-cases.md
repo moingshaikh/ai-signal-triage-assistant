@@ -144,3 +144,5 @@ The assistant must separate emotional expression from business impact and avoid 
 
 ### Input
 Files aren’t syncing properly, and honestly this keeps happening. We’re losing patience.
+
+### Expected Output (Summary)
