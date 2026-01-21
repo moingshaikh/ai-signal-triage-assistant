@@ -139,3 +139,8 @@ This new UI is terrible. I hate it.
 
 ### Why This Case Matters
 The assistant must separate emotional expression from business impact and avoid unnecessary escalation.
+
+## Test Case 8: Multiple Signals in One Message
+
+### Input
+Files aren’t syncing properly, and honestly this keeps happening. We’re losing patience.
