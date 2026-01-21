@@ -146,3 +146,8 @@ The assistant must separate emotional expression from business impact and avoid 
 Files aren’t syncing properly, and honestly this keeps happening. We’re losing patience.
 
 ### Expected Output (Summary)
+
+- **Signal Category**: Bug / Defect
+- **Severity Level**: High
+- **Confidence Level**: Medium
+- **Recommended Action**: Escalate immediately
