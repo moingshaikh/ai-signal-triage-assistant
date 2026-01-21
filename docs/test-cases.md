@@ -153,3 +153,9 @@ Files aren’t syncing properly, and honestly this keeps happening. We’re losi
 - **Recommended Action**: Escalate immediately
 
 ### Why This Case Matters
+
+This case tests prioritization when:
+
+- an operational failure and
+- dissatisfaction language
+appear together.
