@@ -151,3 +151,5 @@ Files aren’t syncing properly, and honestly this keeps happening. We’re losi
 - **Severity Level**: High
 - **Confidence Level**: Medium
 - **Recommended Action**: Escalate immediately
+
+### Why This Case Matters
