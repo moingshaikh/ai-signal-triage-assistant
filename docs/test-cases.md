@@ -157,5 +157,6 @@ Files aren’t syncing properly, and honestly this keeps happening. We’re losi
 This case tests prioritization when:
 
 - an operational failure and
-- dissatisfaction language  
+- dissatisfaction language
+
 appear together.
