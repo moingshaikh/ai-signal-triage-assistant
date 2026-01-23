@@ -160,3 +160,5 @@ This case tests prioritization when:
 - dissatisfaction language
 
 appear together.
+
+The assistant should prioritize the **actionable defect** while acknowledging uncertainty.
