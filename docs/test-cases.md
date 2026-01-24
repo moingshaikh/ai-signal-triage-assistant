@@ -158,9 +158,5 @@ This case tests prioritization when:
 
 - an operational failure and
 - dissatisfaction language
+
 appear together.
-
-## Test Case 9: Internal Operational Note (Neutral Tone)
-
-### Input
-
