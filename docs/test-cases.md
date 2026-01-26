@@ -172,3 +172,7 @@ Several tickets mention slower sync speeds on mobile, mostly from enterprise acc
 - **Severity Level**: Medium
 - **Confidence Level**: High
 - **Recommended Action**: Monitor for patterns or Log and track
+
+### Why This Case Matters
+
+This validates that the assistant works with internal summaries, not just customer complaints.
