@@ -164,3 +164,4 @@ appear together.
 ## Test Case 9: Internal Operational Note (Neutral Tone)
 
 ### Input
+Several tickets mention slower sync speeds on mobile, mostly from enterprise accounts.
